@@ -69,6 +69,9 @@ export default function Post({ post, params }) {
 
     return color;
   }
+  if (router.isFallback) {
+    return <div>Loading...</div>
+  }
   return (
     <>
       <Head>
