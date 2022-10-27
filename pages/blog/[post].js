@@ -86,7 +86,7 @@ export default function Post({ post, params }) {
         <meta property="og:image" content="https://files.suscitar.net/madchad/madchad_logo.png" />
       </Head>
       <div className='h-screen bg-[#000] overflow-hidden'>
-        <div className='fixed top-1 left-1/2 transform -translate-x-1/2 text-xl text-dark dark:text-white  z-50'>
+        <div className='fixed top-1 lg:top-8 left-1/2 transform -translate-x-1/2 text-xl text-dark dark:text-white  z-50'>
           <Link href={'/blog'} className="text-dark dark:text-white">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="url(#linear)" className="w-8 h-8 ">
               <defs>
@@ -99,15 +99,15 @@ export default function Post({ post, params }) {
             </svg>
           </Link>
         </div>
-        <main className='w-full p-10 bg-dark dark:bg-light text border'>
-          <div className='absolute right-12 top-12'>
+        <main className='w-full lg:p-6 bg-dark dark:bg-light text z-40 '>
+          <div className='absolute right-12 top-3 lg:top-12 z-40'>
             <Theme />
           </div>
-          <div className=' h-full bg-light dark:bg-dark  p-4 lg:p-10 grid grid-cols-5'>
+          <div className=' h-full bg-light dark:bg-dark  p-4 lg:p-10 grid grid-cols-5 lg:rounded-lg'>
             <div className='hidden lg:block'>
               <Menu />
             </div>
-            <div className='relative col-span-5 lg:col-span-3 flex-1 flex justify-center overflow-y-scroll h-full'>
+            <div className='relative col-span-5 lg:col-span-3 flex-1 flex justify-center overflow-y-scroll h-full '>
               <div className='absolute top-0 lg:-top-4 flex items-center justify-start w-full gap-2'>
                 <div className='fixed'>
                   <span className={color(post.category_color)}>{post.category}</span>
