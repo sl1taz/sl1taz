@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm sl1taz</h1>
-<h3 align="center">A Web3 Developer</h3>
+<h1 align="center">Hi 👋, I'm Gabriel Ralusi</h1>
+<h3 align="center">A Web Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sl1taz&label=Profile%20views&color=0e75b6&style=flat" alt="sl1taz" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sl1taz" alt="sl1taz" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/sl1taz" target="blank"><img src="https://img.shields.io/twitter/follow/sl1taz?logo=twitter&style=for-the-badge" alt="sl1taz" /></a> </p>
+<p align="center"> <a href="https://twitter.com/gabrielralusi" target="_blank"><img src="https://img.shields.io/twitter/follow/gabrielralusi?logo=twitter&style=for-the-badge" alt="gabrielralusi" /></a> </p>
 
 - 🔭 I’m currently working on **Private Projects**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sl1taz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sl1taz" height="30" width="40" /></a>
+<a href="https://twitter.com/gabrielralusi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielralusi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
