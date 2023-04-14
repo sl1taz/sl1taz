@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Private Projects**
 
-- 📫 How to reach me **sl1taz@sl1taz.com**
+- 📫 How to reach me **me@gabrielralusi.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
