@@ -1,11 +1,6 @@
-<div style="display:flex; align-items:center; width:100%; justify-content: space-between; ">
-<img align="" src="https://github.com/sl1taz.png" alt="Illustration" title="Illustration Storyset" width=180 height=180 style="border-radius:50%"/>
-
-<div style="display:flex; flex-direction:column; align-items:end; ">
+<div>
 <h1 >Hi 👋🏽, I'm Gabriel Ralusi</h1>
 <h3 style="margin-top:-10">Front-End Developer 🚀</h3>
-
-</div>
 </div>
     
 <div align="left">
