@@ -15,9 +15,9 @@
     <center><h3> Social</h3></center>
   <br>
   <div style="display:flex; align-items:center; width:100%; justify-content: center; ">
-    <a  href="https://www.linkedin.com/in/gabrielralusi/" target="_blank"><img style="border-radius:3px" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a  href="https://linkedin.com/in/gabrielralusi/" target="_blank"><img style="border-radius:3px" src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
     <a href="https://gabrielralusi.com" target="_blank" style="margin-left:10"></a>
     <a href="https://gabrielralusi.com"></a>
-    <a href="https://www.x.com/gabrielralusi/" target="_blank"><img style="border-radius:3px" src="https://img.shields.io/static/v1?label=&message=Twitter&color=black&style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+    <a href="https://twitter.com/gabrielralusi/" target="_blank"><img style="border-radius:3px" src="https://img.shields.io/static/v1?label=&message=Twitter&color=black&style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
 </div>
 </div>
